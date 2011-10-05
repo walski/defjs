@@ -27,7 +27,7 @@
       my_sample.to_js_model
       
 ## Use case
-defjs is build to use and pass models around seamlessly from a Ruby server
+defjs is built to use and pass models around seamlessly from a Ruby server
 to a JS client.
 
 ## Speed
